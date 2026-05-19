@@ -1,0 +1,39 @@
+{
+  "name": "lyvox-next-starter",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Open-source Next.js starter for agencies, freelancers and small businesses with SEO, Tailwind components and Vercel-ready structure.",
+  "license": "MIT",
+  "author": "Martin Cerny",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  },
+  "keywords": [
+    "nextjs",
+    "tailwindcss",
+    "typescript",
+    "seo",
+    "vercel",
+    "starter",
+    "landing-page",
+    "agency",
+    "small-business"
+  ]
+}
