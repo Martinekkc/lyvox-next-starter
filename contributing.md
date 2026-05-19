@@ -22,3 +22,33 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Martinekkc/lyvox-next-starter.git
+```
+
+Install dependencies:
+```bash
+npm install
+```
+
+Run the development server:
+```bash
+npm run dev
+```
+
+Pull requests
+
+Before opening a pull request, please make sure that:
+
+* the project builds successfully
+* the code is readable and consistent
+* the change is useful for a reusable website starter
+* documentation is updated when needed
+
+License
+
+By contributing, you agree that your contributions will be licensed under the MIT License.
+
+
+Commit message:
+
+```txt
+Add contributing guide
